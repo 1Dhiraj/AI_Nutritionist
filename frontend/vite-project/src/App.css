@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+#main{
+    min-width: 100vw;
+}
+
+#send-button{
+    background-color:green;
+}
+
+#analyze-button{
+    background-color:green;
+}
